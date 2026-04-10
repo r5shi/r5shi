@@ -1,5 +1,5 @@
 # Hi there, I'm Rishi Yadav 👋 
-### Assitant Founder @ XRGO Securities | Full-Stack Developer | Cybersecurity Researcher
+### Co-Founder @nerophlabs | Full-Stack Developer | Cybersecurity Researcher
 
 Passionate about building memory-safe, high-performance security tooling. Currently bridging the gap between robust system architecture and offensive security.
 
@@ -16,7 +16,7 @@ Passionate about building memory-safe, high-performance security tooling. Curren
 - **Specialties:** Deep Packet Inspection (DPI), Business Logic Vulnerabilities, Micro-segmentation.
 
 ### 📊 Github Stats
-![Rishi's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=r5shi&type=contributions&theme=github)
+![Rishi's Contribution stats](https://github-readme-stats.vercel.app/api?username=r5shi)]
 
 ### 🤝 Let's Connect
 - **Discord:** `r5shi`
